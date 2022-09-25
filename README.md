@@ -5,7 +5,7 @@ Example of my work in Data Science
 Dodati: Opis sta se radi u projektu 
 
 
-# [Project: Error analzsis from log file HEC-RAS](https://github.com/Dignatis/Error_analysis_from_log_file_HECRAS)
+# [Project: Error analysis from log file HEC-RAS](https://github.com/Dignatis/Error_analysis_from_log_file_HECRAS)
 Dodati: Opis sta se radi u projektu 
 
 ![](https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/HecRas1.PNG)
