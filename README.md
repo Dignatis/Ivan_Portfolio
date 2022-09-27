@@ -7,7 +7,7 @@ Input data for this project was surveyed data from different  years (2004, 2014,
 Surveyed data was in the form of points with X,Y,Z coordinates.  
 
 <p>
-    <img src="https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/PtP1.png" width="360" height="360" />
+    <img src="https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/PtP1.PNG" width="360" height="360" />
 </p>
 
 Task was thru different steps, here are quick summary of each (for more detailed explanation look in jupiter nootebook file): 
