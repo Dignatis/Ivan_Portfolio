@@ -1,5 +1,5 @@
 # Ivan_Portfolio
-Example of my work in Data Science
+Example of my work in Data Science 123
 
 # [Project: Points to Profile](https://github.com/Dignatis/Points_to_Profile)
 With this project task was to quantify change in the river bed over the years. 
@@ -7,7 +7,7 @@ Input data for this project was surveyed data from different  years (2004, 2014,
 Surveyed data was in the form of points with X,Y,Z coordinates.  
 
 <p>
-    <img src="/images/ptp1.PNG" width="360" height="360" />
+    <img src="/images/ptp1.jpg" width="360" height="360" />
 </p>
 
 Task was thru different steps, here are quick summary of each (for more detailed explanation look in jupiter nootebook file): 
