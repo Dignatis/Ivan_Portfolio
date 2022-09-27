@@ -77,7 +77,8 @@ Next step is that for every cell get error statistic.
 </p>
 
 <p>
-Last step is to choose parameter ( SUM error, Average error, Count of error) and number top cells we want to see.
+Last step is to choose parameter (SUM error, Average error, Count of error) 
+and number top cells we want to see.
 </p>
 
 <p>
