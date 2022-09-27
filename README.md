@@ -57,6 +57,33 @@ Main idea for this project was to easily find cells in HEC-RAS 2D model that nee
 </p>
 
 <p>
-    <img src="https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/HecRas2.PNG" width="480" height="360" />
+    <img src="https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/HecRas2.PNG" width="300" height="300" />
 </p>
 
+<p>
+First step is to read only lines that contains data about cell and error and create DataFrame from it.
+</p>
+
+<p>
+    <img src="https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/HecRas2.PNG" width="300" height="300" />
+</p>
+
+<p>
+Next step is that for every cell get error statistic.
+</p>
+
+<p>
+    <img src="https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/HecRas3.PNG" width="300" height="300" />
+</p>
+
+<p>
+Last step is to choose parameter ( SUM error, Average error, Count of error) and number top cells we want to see.
+</p>
+
+<p>
+    <img src="https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/HecRas4.PNG" width="300" height="300" />
+</p>
+
+<p>
+  With this information we can go back to HEC-RAS and do changes to correct the model.
+</p>
