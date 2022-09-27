@@ -1,5 +1,5 @@
 # Ivan_Portfolio
-Example of my work in Data Science 123
+Example of my work using Python for Data Analysis and GIS Datamanagement.
 
 # [Project: Points to Profile](https://github.com/Dignatis/Points_to_Profile)
 With this project task was to quantify change in the river bed over the years. 
