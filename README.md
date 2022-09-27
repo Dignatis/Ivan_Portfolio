@@ -57,7 +57,7 @@ Main idea for this project was to easily find cells in HEC-RAS 2D model that nee
 </p>
 
 <p>
-    <img src="https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/HecRas2.PNG" width="300" height="300" />
+    <img src="https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/HecRas5.PNG" width="320" height="380" />
 </p>
 
 <p>
