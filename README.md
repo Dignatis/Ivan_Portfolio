@@ -7,7 +7,7 @@ Input data for this project was surveyed data from different  years (2004, 2014,
 Surveyed data was in the form of points with X,Y,Z coordinates.  
 
 <p>
-    <img src="https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/PtP1.PNG" width="360" height="360" />
+    <img src="https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/PtP1.png" width="360" height="360" />
 </p>
 
 Task was thru different steps, here are quick summary of each (for more detailed explanation look in jupiter nootebook file): 
@@ -52,5 +52,11 @@ To calculate and visualize changes.
 
 Main idea for this project was to easily find cells in HEC-RAS 2D model that need corrections. Typical HEC-RAS 2D model contains between a couple thousand to a couple million cells. This tool needs to identify cells which make the biggest error.
 
+<p>
+    Log file from HEC-RAS looks like.
+</p>
 
-![](https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/HecRas1.PNG)
+<p>
+    <img src="https://github.com/Dignatis/Ivan_Portfolio/blob/main/images/HecRas2.PNG" width="480" height="360" />
+</p>
+
